@@ -29,6 +29,10 @@ This is a simple coffee sales analysis to showcase Python and Power BI skills.
   To ensure the dataset was clean, consistent, and ready for analysis, I performed several preparation steps:
   - Used Python to simplify and speed up the data preparation process before importing the refined dataset into Power BI.
   - Reviewed the dataset to check for missing or null values.
+    <p align="center">
+    <img src="images/dataset review.png" width="700"/>
+    </p>
+    
   - Extracted the year from the date column to organize and segment the data by year.
   - Added a currency label (USD) to the transaction amount for clarity.
 
