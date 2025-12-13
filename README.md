@@ -2,16 +2,16 @@
 This is a simple coffee sales analysis to showcase Python and Power BI skills.
 
 1. Goal:
-  <p>To clean, analyze, and visualize the café’s sales data in order to extract insights that support operational optimization, revenue growth, and improved customer satisfaction, and to provide actionable recommendations based on the findings.</p>
+<p>To clean, analyze, and visualize the café’s sales data in order to extract insights that support operational optimization, revenue growth, and improved customer satisfaction, and to provide actionable recommendations based on the findings.</p>
 
-3. Key Questions
+2. Key Questions
   - Which month delivers the highest revenue
   - Which coffee product has the highest sales volume
   - Which coffee product generates the most revenue
   - What the peak hours are by time of day and day of the week
 
 3. Dataset Description
-  The dataset was sourced from Kaggle and contains 3,547 café sales transactions from March 2024 to March 2025. It includes 11 columns that describe customer purchases.
+<p>The dataset was sourced from Kaggle and contains 3,547 café sales transactions from March 2024 to March 2025. It includes 11 columns that describe customer purchases.</p>
   - hour_of_day – hour of purchase (0–23)
   - cash_type – payment method (cash/card)
   - money – transaction amount
