@@ -2,15 +2,7 @@
 This project presents a coffee sales analysis designed to showcase Python and Power BI skills through data cleaning, modeling, visualization, and insight generation.
 
 1. Goal:
-To clean, analyze, and visualize the café’s sales data in order to extract insights that support:
-
-Operational optimization
-
-Revenue growth
-
-Improved customer satisfaction
-
-The project also provides actionable recommendations based on the findings.
+To clean, analyze, and visualize the café’s sales data in order to extract insights that support operational optimization, revenue growth, and improved customer satisfaction, and to provide actionable recommendations based on the findings.
 
 2. Key Questions
   - Which month delivers the highest revenue
@@ -19,18 +11,18 @@ The project also provides actionable recommendations based on the findings.
   - What the peak hours are by time of day and day of the week
 
 3. Dataset Description
-<p>The dataset was sourced from Kaggle and contains 3,547 café sales transactions from March 2024 to March 2025. It includes 11 columns that describe customer purchases.</p>
-  - hour_of_day – hour of purchase (0–23)
-  - cash_type – payment method (cash/card)
-  - money – transaction amount
-  - coffee_name – type of coffee purchased
-  - Time_of_day – categorized time (Morning, Afternoon, Night)
-  - Weekday – day of the week
-  - Month_name – month of purchase
-  - Weekdaysort – numeric weekday order (1–7)
-  - Monthsort – numeric month order (1–12)
-  - Date – transaction date
-  - Time – exact time of purchase
+The dataset was sourced from Kaggle and contains 3,547 café sales transactions from March 2024 to March 2025. It includes 11 columns that describe customer purchases.
+- **hour_of_day** – Hour of purchase (0–23)
+- **cash_type** – Payment method (cash / card)
+- **money** – Transaction amount
+- **coffee_name** – Type of coffee purchased
+- **Time_of_day** – Morning, Afternoon, Night
+- **Weekday** – Day of the week
+- **Month_name** – Month of purchase
+- **Weekdaysort** – Numeric weekday order (1–7)
+- **Monthsort** – Numeric month order (1–12)
+- **Date** – Transaction date
+- **Time** – Exact time of purchase
 
 4. Methodology:
   4.1 Data Preparation
