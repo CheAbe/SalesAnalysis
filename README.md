@@ -44,16 +44,16 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
 ### 4.2 Data Modeling
   A clean and well‑structured data model was developed in Power BI to support efficient analysis, with DAX measures created to calculate key performance indicators (KPIs).
   - Total Revenue
-    <p align="center">
-    <img src="images/total revenue.png" width="300"/>
+    <p align="left">
+    <img src="images/total revenue.png" width="400"/>
     </p>
   - Average Order Value
-    <p align="center">
-    <img src="images/average order value.png" width="300"/>
+    <p align="left">
+    <img src="images/average order value.png" width="400"/>
     </p>
   - Total Orders Value
-    <p align="center">
-    <img src="images/total orders.png" width="300"/>
+    <p align="left">
+    <img src="images/total orders.png" width="400"/>
     </p>
 ### 4.3 Data Visualization
   With the model in place, Power BI was used to design clear and insightful visualizations:
