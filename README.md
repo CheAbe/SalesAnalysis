@@ -25,7 +25,7 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
 - **Time** – Exact time of purchase
 
 4. Methodology:
-  4.1 Data Preparation
+### 4.1 Data Preparation
   To ensure the dataset was clean, consistent, and ready for analysis, I performed several preparation steps:
   - Used Python to simplify and speed up the data preparation process before importing the refined dataset into Power BI.
   - Reviewed the dataset to check for missing or null values.
@@ -41,7 +41,7 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
     <img src="images/added currency.png" width="500"/>
     </p>
 
-  4.2 Data Modeling
+###4.2 Data Modeling
   A clean and organized data model was built in Power BI to support efficient analysis
   - Created measures using DAX to calculate KPIs such as monthly revenue, average order value, and total orders value.
     <p align="center">
@@ -53,7 +53,7 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
     <p align="center">
     <img src="images/total orders.png" width="500"/>
     </p>
-  4.3 Data Visualization
+###4.3 Data Visualization
   With the model in place, Power BI was used to design clear and insightful visualizations:
   - KPI cards to highlight key metrics at a glance.
   - Line charts to show revenue trends over time.
@@ -62,7 +62,7 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
     <img src="images/Power BI Data Visualization.png" width="700"/>
     </p>
   
-  4.4 Insight Extraction
+###4.4 Insight Extraction
   The final step involved interpreting the visuals to identify meaningful patterns and trends:
   - Determined which month generated the highest revenue.
   - Identified the most popular coffee product by sales volume.
