@@ -2,7 +2,7 @@
 This project presents a coffee sales analysis designed to showcase Python and Power BI skills through data cleaning, modeling, visualization, and insight generation.
 
 ## 1. Goal:
-To clean, analyze, and visualize the café’s sales data in order to extract insights that support operational optimization, revenue growth, and improved customer satisfaction, and to provide actionable recommendations based on the findings.
+To clean, analyze, and visualize the cafe’s sales data in order to extract insights that support operational optimization, revenue growth, and improved customer satisfaction, and to provide actionable recommendations based on the findings.
 
 ## 2. Key Questions
   - Which month delivers the highest revenue
@@ -58,30 +58,31 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
   - KPI cards to highlight key metrics at a glance.
   - Line charts to show revenue trends over time.
   - Bar charts to compare product popularity and revenue contribution.
+  - Line charts visualizing peak purchasing hours and the busiest days.
     <p align="center">
     <img src="images/Power BI Data Visualization.png" width="700"/>
     </p>
   
 ### 4.4 Insight Extraction
   The final step involved interpreting the visuals to identify meaningful patterns and trends:
-  - Determined which month generated the highest revenue.
-  - Identified the most popular coffee product by sales volume.
-  - Highlighted which product contributed the most revenue.
-  - Analyzed customer behavior to pinpoint peak hours of the day and week.
+  - Determined the month with the highest revenue.
+  - Identified the most popular coffee product based on sales volume.
+  - Identified the product that generated the highest revenue.
+  - Analyzed customer behavior to pinpoint peak hours of the day and day of the week.
 
 ## 5. Conclusion
-  - Total revenue: $112.25K from 3,547 orders with the average order value of $31.65 per transaction.
-  - Oct 2024 shows the highest revenue of $13.89K.
-  - American with milk is the top-selling product.
-  - Latte is the top‑earning product.
-  - Peak activity occurs midday(10 AM–4 PM) and on Mondays/Tuesdays.
-  - Insights support better staffing, inventory, and promotional decision.
+  - The cafe generated $112.25K in total revenue from 3,547 orders, with an average order value of $31.65 per transaction.
+  - October 2024 recorded the highest monthly revenue at $13.89K.
+  - Americano with milk is the top-selling product by count.
+  - Latte is the highest-earning product in terms of total revenue.
+  - Customer traffic peaks during midday hours (10 AM–4 PM), with Mondays and Tuesdays showing the highest order volumes.
+  - These insights provide a strong analytical foundation for optimizing staffing allocation, inventory planning, and targeted promotional strategies.
 
 ## 6. Recommendations
-  - Continue promoting best‑selling products like Latte and Americano with Milk.
-  - Increase staffing and inventory during peak hours (10 AM–4 PM).
-  - Prepare for high‑revenue months with targeted promotions.
-  - Introduce upselling strategies to raise average order value.
+  - Continue promoting best‑selling products like Latte and Americano with Milk to sustain strong sales momentum.
+  - Allocate additional staffing and adjust inventory levels during peak hours (10 AM–4 PM) to accommodate higher customer traffic.
+  - Plan targeted promotional activities ahead of historically high‑revenue months to maximize sales opportunities.
+  - Implement upselling strategies to increase the average order value and enhance overall revenue performance.
 
 
 
