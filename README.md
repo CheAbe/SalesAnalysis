@@ -30,21 +30,37 @@ This is a simple coffee sales analysis to showcase Python and Power BI skills.
   - Used Python to simplify and speed up the data preparation process before importing the refined dataset into Power BI.
   - Reviewed the dataset to check for missing or null values.
     <p align="center">
-    <img src="images/dataset review.png" width="700"/>
+    <img src="images/dataset review.png" width="500"/>
     </p>
-    
   - Extracted the year from the date column to organize and segment the data by year.
+    <p align="center">
+    <img src="images/year extraction.png" width="500"/>
+    </p>
   - Added a currency label (USD) to the transaction amount for clarity.
+    <p align="center">
+    <img src="images/added currency.png" width="500"/>
+    </p>
 
   4.2 Data Modeling
   A clean and organized data model was built in Power BI to support efficient analysis
   - Created measures using DAX to calculate KPIs such as monthly revenue, average order value, and total orders value.
-  
+    <p align="center">
+    <img src="images/total revenue.png" width="500"/>
+    </p>
+    <p align="center">
+    <img src="images/average order value.png" width="500"/>
+    </p>
+    <p align="center">
+    <img src="images/total orders.png" width="500"/>
+    </p>
   4.3 Data Visualization
   With the model in place, Power BI was used to design clear and insightful visualizations:
   - KPI cards to highlight key metrics at a glance.
   - Line charts to show revenue trends over time.
   - Bar charts to compare product popularity and revenue contribution.
+    <p align="center">
+    <img src="images/Power BI Data Visualization.png" width="700"/>
+    </p>
   
   4.4 Insight Extraction
   The final step involved interpreting the visuals to identify meaningful patterns and trends:
