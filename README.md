@@ -73,7 +73,7 @@ The dataset was sourced from Kaggle and contains 3,547 café sales transactions 
 ## 5. Conclusion
   - The cafe generated $112.25K in total revenue from 3,547 orders, with an average order value of $31.65 per transaction.
   - October 2024 recorded the highest monthly revenue at $13.89K.
-  - Americano with milk is the top-selling product by count.
+  - Americano with milk is the top-selling product by volume.
   - Latte is the highest-earning product in terms of total revenue.
   - Customer traffic peaks during midday hours (10 AM–4 PM), with Mondays and Tuesdays showing the highest order volumes.
   - These insights provide a strong analytical foundation for optimizing staffing allocation, inventory planning, and targeted promotional strategies.
