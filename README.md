@@ -1,4 +1,4 @@
-# Cofee Sales Analysis
+# Coffee Sales Analysis
 This project presents a coffee sales analysis designed to showcase Python and Power BI skills through data cleaning, modeling, visualization, and insight generation.
 
 ## 1. Goal:
