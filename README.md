@@ -1,7 +1,7 @@
 # Coffee Sales Analysis
 This project presents a coffee sales analysis designed to showcase Python and Power BI skills through data cleaning, modeling, visualization, and insight generation.
 
-## 1. Goal:
+## 1. Goal
 To clean, analyze, and visualize the cafe’s sales data in order to extract insights that support operational optimization, revenue growth, and improved customer satisfaction, and to provide actionable recommendations based on the findings.
 
 ## 2. Key Questions
